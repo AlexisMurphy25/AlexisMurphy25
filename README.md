@@ -4,7 +4,7 @@ Hi 👋 My name is Alexis Murphy
 Indiana University Undergraduate
 --------------------------------
 
-I'm a junior currently studying Computer Science at Indiana University. I have a foundation in languages such as Python, Swift, Java and R. I am currently seeking opportunities in software engineering or data analysis. Feel free to reach out and explore my repositories.
+I'm a junior currently studying Computer Science at Indiana University. I have a foundation in languages such as Python, Swift, Java and R. I am currently seeking opportunities in software engineering or data analysis. Feel free to reach out and explore my pinned project.
 
 * 🌍  I'm based in Bloomington, Indiana
 * ✉️  You can contact me at [alexis.murphy.1232@gmail.com](mailto:alexis.murphy.1232@gmail.com)
