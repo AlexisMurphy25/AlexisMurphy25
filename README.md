@@ -4,6 +4,8 @@ Hi 👋 My name is Alexis Murphy
 Indiana University Undergraduate
 --------------------------------
 
+More activity can be found on my school github: https://github.iu.edu/alenmurp 
+
 I'm a senior currently studying Computer Science at Indiana University. I have a foundation in languages such as Python, Swift, Java and R. I am currently seeking opportunities in software engineering and data analysis. Feel free to reach out and explore my pinned projects.
 
 * 🌍  I'm based in Bloomington, Indiana
