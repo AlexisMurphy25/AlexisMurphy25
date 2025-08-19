@@ -4,7 +4,7 @@ Hi 👋 My name is Alexis Murphy
 Indiana University Graduate
 --------------------------------
 
-I' a recent Computer Science graduate from Indiana University. I have a strong foundation in languages such as Python, Swift, Java and R. I am currently seeking opportunities in data analysis. Feel free to reach out and explore my pinned projects.
+I'm a recent Computer Science graduate from Indiana University. I have a strong foundation in languages such as Python, Swift, Java and R. I am currently seeking opportunities in data analysis. Feel free to reach out and explore my pinned projects.
 
 * 🌍  I'm based in Crawfordsville, Indiana
 * ✉️  You can contact me at [alexis.murphy.1232@gmail.com](mailto:alexis.murphy.1232@gmail.com)
