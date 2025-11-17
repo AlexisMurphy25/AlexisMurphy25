@@ -1,22 +1,22 @@
-Hi 👋 My name is Alexis Murphy
+Hey there! 👋 My name is Alexis Murphy
 ==============================
 
 Indiana University Graduate
 --------------------------------
 
-I'm a recent Computer Science graduate from Indiana University. I have a strong foundation in languages such as Python, Swift, Java and R. I am currently seeking opportunities in data analysis. Feel free to reach out and explore my pinned projects.
+I’m a recent Computer Science graduate from Indiana University who loves turning messy data into meaningful stories. You’ll usually find me working in SQL, Python, R, Java, or Excel exploring patterns in data.
+
+Through my education, I’ve found a real passion for uncovering the insights hidden beneath the surface of data. There’s something incredibly rewarding about turning scattered numbers into stories that actually make sense.
+
+My background in the service industry taught me how to stay calm under pressure, solve problems quickly, and work seamlessly with others. I have found these skills that carry over surprisingly well when debugging code at 2 a.m. 😄
+
+I continue to be constantly learning, experimenting, and leveling up my toolkit. Feel free to explore my repos and reach out. Always thrilled to connect with others who get just as excited about data as I do.
 
 * 🌍  I'm based in Crawfordsville, Indiana
 * ✉️  You can contact me at [alexis.murphy.1232@gmail.com](mailto:alexis.murphy.1232@gmail.com)
 
-More activity can be found on my school github: https://github.iu.edu/alenmurp 
 
 
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-</p>
 
 ### Socials
 
